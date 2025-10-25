@@ -1,0 +1,5 @@
+{
+  "name": "Social Media Caption Generator",
+  "description": "An AI-powered tool to generate creative social media captions and relevant hashtags for your images using Gemini.",
+  "requestFramePermissions": []
+}
